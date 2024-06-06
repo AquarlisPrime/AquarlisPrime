@@ -53,17 +53,3 @@ I'm Anjali Singh, a motivated Machine Learning professional with robust programm
 **Institution of Electronics and Telecommunication Engineers Student Forum (IETE SF’), BIT Sindri**
 - Organized events, workshops, and coding sessions to enhance skills and promote continuous learning.
 
-## Accomplishments
-
-- **TechFest 2023:** Position Winner
-- **Youngest Entrepreneur at BIT Sindri:** Multiple awards in various competitions
-- **IETE SF TechFest:** Increased sponsor contributions by 15% as Sponsorship Team Leader
-- **Innovathon Coordinator:** Managed team duties, content creation, alumni communications, and budget planning
-
-## Education
-
-**Birsa Institute of Technology, Sindri (BIT Sindri)**
-- B.Tech in Production and Industrial Engineering
-- Relevant courses: Machine Learning, Statistics and Data Science (Python), NLP, Generative AI, Deep Learning, Computer Vision
-- Expected graduation date: May 2026
-
