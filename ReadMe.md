@@ -66,3 +66,4 @@ I'm Anjali Singh, a motivated Machine Learning professional with robust programm
 - B.Tech in Production and Industrial Engineering
 - Relevant courses: Machine Learning, Statistics and Data Science (Python), NLP, Generative AI, Deep Learning, Computer Vision
 - Expected graduation date: May 2026
+
