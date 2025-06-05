@@ -6,10 +6,7 @@ I'm Anjali Singh, a motivated Machine Learning professional with robust programm
 
 ## About Me
 
-- 🔭 I’m currently working on **Image Merger**, a model to merge two images based on user input using cGAN.
-- 🌱 I’m currently learning advanced computer vision techniques using OpenCV.
 - 👯 I’m looking to collaborate on innovative AI projects with research scope.
-- 🤔 I’m enhancing my knowledge in Generative AI.
 - 💬 Ask me about machine learning, data analysis, and visualization.
 - 📫 How to reach me: [primeaquarlis@gmail.com](mailto:primeaquarlis@gmail.com)
 - 😄 Pronouns: She/Her
